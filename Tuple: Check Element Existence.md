@@ -10,8 +10,18 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+
+```
+x = ("r", "8", "a", "j", "d", "v", "u", "y", "c", "e")
+print('n' in x)
+print('8' in x)
+```
 
 ## Output
 
+![Uploading Screenshot 2025-05-23 204255.png…]()
+
+
 ## Result
+
+Therefore,the given python program is successfully verified

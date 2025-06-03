@@ -19,7 +19,8 @@ print('8' in x)
 
 ## Output
 
-![Uploading Screenshot 2025-05-23 204255.png…]()
+![image](https://github.com/user-attachments/assets/e22c8c65-5f30-44f8-812e-d4ad5f47f07a)
+
 
 
 ## Result
